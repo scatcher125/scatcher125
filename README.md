@@ -30,7 +30,8 @@ Transcriptomic analysis pipeline for single-cell RNA sequencing data. Quality co
 * Survival analysis using `survminer`
 * MAFtools
 * `bash` shell scripting & slurm jobs
-* WGS/WES workflow using Salmon
+* WGS/WES end-to-end workflow
+* Upstream RNAseq analyses using Salmon
 * ATAC-seq methylation data analysis
 * `Nextflow`/`Snakemake`
 * Causal inference using `matchit`
