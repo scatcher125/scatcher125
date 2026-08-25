@@ -2,7 +2,7 @@
 
 **Bioinformatics Data Scientist & Researcher | Data Pipelines & Agentic AI | Transcriptomics & Genomics**
 
-Welcome to my page! I am a Bioinformatician who has been drawing actionable insights for Drug Development and Clinical studies within Cancer and Cardio-metabolic disease areas from Transcriptomics and Genomics data, since I first discovered Bioinformatics in 2018. This GitHub showcases repositories spanning my areas of expertise, including Data Pipelines and AI tools that I am developing.
+Welcome to my page! I am a Bioinformatician who has been drawing actionable insights for Drug Development and Clinical studies within Cancer and Cardio-metabolic disease areas from Transcriptomics and Genomics data, ever since I first discovered Bioinformatics in 2018. This GitHub showcases repositories spanning my areas of expertise, including Data Pipelines and AI tools that I am developing.
 
 ## 🧬 Featured Projects
 
