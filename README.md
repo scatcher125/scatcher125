@@ -11,7 +11,7 @@ Recreates bulk RNAseq analyses conducted as part of my PKP2 Gene Therapy for ARV
 
 **[View Repository →](https://github.com/scatcher125/RNAseq-PKP2GeneTherapy-DrugMOA)**
 
-### 🧬 GWAS-Metabolite-Population-Genetics
+### 🧬 GWAS Metabolite Population Genetics
 GWAS meta-analysis of metabolites and T2D; includes harmonization, genetic correlation, fine-mapping, eQTL colocalization, and Mendelian randomization.
 
 **[View Repository →](https://github.com/scatcher125/GWAS-Metabolite-Population-Genetics)**
