@@ -3,6 +3,7 @@
 **Bioinformatics Data Scientist & Researcher | Data Pipelines & Agentic AI | Transcriptomics & Genomics**
 
 Welcome to my page! I am a Bioinformatician who has been drawing actionable insights for Drug Development and Clinical studies within Cancer and Cardio-metabolic disease areas from Transcriptomics and Genomics data, since I first discovered Bioinformatics in 2018. This GitHub showcases repositories spanning my areas of expertise, including Data Pipelines and AI tools that I am developing.
+
 ---
 
 ## 🧬 Featured Projects
@@ -26,6 +27,7 @@ LangGraph-based agentic workflow that parses Genomics sequencing Quality Control
 Transcriptomic analysis pipeline for single-cell RNA sequencing data. Quality control, clustering, differential expression, and cell-type annotation.
 
 **[View Repository →](https://github.com/scatcher125/Single-cell-RNAseq)**
+
 ---
 
 ## Upcoming projects:
@@ -38,6 +40,7 @@ Transcriptomic analysis pipeline for single-cell RNA sequencing data. Quality co
 * `Nextflow`/`Snakemake`
 * Causal inference using `matchit`
 * Spatial RNAseq
+
 ---
 
 ## 📫 Connect
