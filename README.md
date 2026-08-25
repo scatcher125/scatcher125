@@ -27,7 +27,6 @@ Transcriptomic analysis pipeline for single-cell RNA sequencing data. Quality co
 **[View Repository →](https://github.com/scatcher125/Single-cell-RNAseq)**
 
 ## Upcoming projects:
-* Single cell RNAseq analyses using `Monocle`: Includes dimensionality reduction, clustering, cell type identification and differentiation trajectory analysis.
 * Survival analysis using `survminer`
 * MAFtools
 * `bash` shell scripting & slurm jobs
